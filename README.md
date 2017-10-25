@@ -3,8 +3,8 @@
 Для работы нужен node.js<br>
 
 1. Создаем нужную деррикторию(рабочую папку) <a href="">mkdir webpack-test</a><br>
-2. Переходим в эту папку <a href="">cd webpack-test</a><br>
-3. Инициализируем <a href="">package.json</a> - командой npm init<br>
+2. Переходим в эту папку <a href="">cd webpack-test/</a><br>
+3. Инициализируем <a href="">package.json</a> - командой <a href="">npm init</a><br>
 
 Для инициализации пакетов npm && bower вводим консольную команду<br>
 <a href="">npm i</a><br>
