@@ -6,7 +6,7 @@
 2. Переходим в эту папку <a href="">cd webpack-test/</a><br>
 3. Инициализируем <a href="">package.json</a> - командой <a href="">npm init</a><br>
 
-Для инициализации пакетов npm && bower вводим консольную команду<br>
+Для инициализации пакетов <a href="">npm</a> && <a href="">bower</a> вводим консольную команду<br>
 <a href="">npm i</a><br>
 <a href="">bower i</a><br><br>
 
